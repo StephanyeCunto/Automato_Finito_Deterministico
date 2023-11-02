@@ -1,0 +1,13 @@
+origem,letra,destino
+q0,b,q1
+q0,a,q0
+q0,b,qf
+q0,a,qf
+q1,a,q2
+q1,a,qf
+q2,b,q1
+q2,b,qf
+q2,a,qf
+q2,a,q3
+q3,a,q2
+q3,a,qf
