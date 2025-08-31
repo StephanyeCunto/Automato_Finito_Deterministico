@@ -70,7 +70,7 @@ public class Transicao {
         for (char c : palavra.toCharArray()) {
             estadoAtual = encontrarTransicao(estadoAtual, c);
             System.out.println("Caractere: '" + c + "' -> Estado: " + (estadoAtual == -1 ? "INVÁLIDO" : estadoAtual));
-            if (estadoAtual == -1) break;           
+            if (estadoAtual == -1) return false;           
         }
         return verificaEstado(estadoAtual);
     }

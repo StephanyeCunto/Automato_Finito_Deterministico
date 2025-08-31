@@ -12,7 +12,6 @@ Um simulador de autômatos finitos determinísticos (AFD) implementado em Java q
 - [Formato dos Arquivos CSV](#formato-dos-arquivos-csv)
 - [Exemplo de Uso](#exemplo-de-uso)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Contribuir](#como-contribuir)
 
 ## 🎯 Sobre o Projeto
 
@@ -153,4 +152,4 @@ Palavra aceita
 
 ---
 
-**Desenvolvido como projeto acadêmico para estudo de Teoria da Computação e Linguagens Formais.**
+**Desenvolvido como projeto acadêmico para estudo de Linguagens Formais e Âutomatos.**
